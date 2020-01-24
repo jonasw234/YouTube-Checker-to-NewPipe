@@ -5,6 +5,8 @@ Basically I don’t really care to use an account for watching YouTube, so I use
 
 *Warning:* This is a one way synchronization from [YouTube Checker](https://github.com/XrXr/YoutubeSubscriptionChecker) to [NewPipe](https://newpipe.schabi.org/).  The current version doesn’t try to merge subscriptions and you cannot synchronize from [NewPipe](https://newpipe.schabi.org/) to [YouTube Checker](https://github.com/XrXr/YoutubeSubscriptionChecker).  Maybe I will add this in the future, but right now this is simply not my use case.
 
+(Sidenote: I used to use [SkyTube](https://skytube-app.com/), but lately it [failed to download subscriptions due to overuse of the default API key](https://github.com/ram-on/SkyTube/issues/550).  Since I don’t want to add my own API key, I’ve now switched.  The only thing that I was still missing was a chronological sort, however there are some patched APKs that implement that feature available: https://github.com/TeamNewPipe/NewPipe/pull/2547)
+
 ## Dependencies
 - Python3
 
